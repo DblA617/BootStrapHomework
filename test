@@ -1,0 +1,30 @@
+<div class="container">
+       <div class="row">
+          <div class="col-4"> <button>primary button</button>
+        </div>
+          <div class="col-4">
+              <button>secondary button</button>
+          </div>
+           <div class="col-4">
+               <button>sucess button</button>
+            </div>
+           <div class="col-4">
+               <button>danger button</button>
+            </div>
+           <div class="col-4">
+           <button>warning button</button>
+        </div>
+           <div class="col-4">
+               <button>info button</button>
+            </div>
+           <div class="col-4">
+               <button>light button</button>
+            </div>
+           <div class="col-4">
+               <button>dark button</button>
+            </div>
+           <div class="col-4">
+               <button>link button</button>
+            </div>
+       </div> 
+    </div>
